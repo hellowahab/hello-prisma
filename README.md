@@ -25,7 +25,7 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
+https://docs.nestjs.com/recipes/prisma
 ## Project setup
 
 ```bash
